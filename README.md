@@ -1,2 +1,2 @@
 # iOS Projects
-I will put all my iOS code here. 
+I will put my iOS code that I use for learning purposes here. 
