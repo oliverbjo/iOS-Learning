@@ -14,6 +14,7 @@
 		A8109A0022F7CBE700965379 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A81099FE22F7CBE700965379 /* LaunchScreen.storyboard */; };
 		A8109A0B22F7CBE800965379 /* barcode_testingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8109A0A22F7CBE800965379 /* barcode_testingTests.swift */; };
 		A8109A1622F7CBE800965379 /* barcode_testingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8109A1522F7CBE800965379 /* barcode_testingUITests.swift */; };
+		A8109A2422F7D39700965379 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8109A2322F7D39700965379 /* HomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A8109A1122F7CBE800965379 /* barcode_testingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = barcode_testingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8109A1522F7CBE800965379 /* barcode_testingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = barcode_testingUITests.swift; sourceTree = "<group>"; };
 		A8109A1722F7CBE800965379 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8109A2322F7D39700965379 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				A81099F522F7CBE400965379 /* AppDelegate.swift */,
 				A81099F722F7CBE400965379 /* ViewController.swift */,
+				A8109A2322F7D39700965379 /* HomeViewController.swift */,
 				A81099F922F7CBE400965379 /* Main.storyboard */,
 				A81099FC22F7CBE700965379 /* Assets.xcassets */,
 				A81099FE22F7CBE700965379 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				A81099F822F7CBE400965379 /* ViewController.swift in Sources */,
 				A81099F622F7CBE400965379 /* AppDelegate.swift in Sources */,
+				A8109A2422F7D39700965379 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
